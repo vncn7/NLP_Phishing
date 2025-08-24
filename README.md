@@ -1,3 +1,4 @@
 # NLP_Phishing
 
-Dieses Repository enthält den Quellcode und Python-Notebooks für ein Projekt zur **Phishing-Erkennung mit Natural Language Processing (NLP)**.  
+Dieses Repository enthält Jupyter Notebooks zur automatisierten Erkennung von Phishing-Nachrichten mithilfe von Natural Language Processing (NLP).  
+
